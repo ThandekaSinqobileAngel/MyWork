@@ -1,0 +1,39 @@
+
+User assigned to task:
+Thandeka
+Task Title :
+Python practicals
+Task Description:
+Write code to validate data input
+Task Due Date:
+2022-08-03
+Date Assigned:
+2022-07-19
+Task Completed:
+No
+
+User assigned to task:
+Sphe
+Task Title :
+strt
+Task Description:
+2022-07-27
+Task Due Date:
+eryr
+Date Assigned:
+2022-07-19
+Task Completed:
+No
+
+User assigned to task:
+admin
+Task Title :
+Marking
+Task Description:
+Matric marking
+Task Due Date:
+2022-07-25
+Date Assigned:
+2022-07-19
+Task Completed:
+No

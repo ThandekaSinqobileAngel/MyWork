@@ -1,0 +1,6 @@
+admin,adm1n
+Thandeka,123
+Nomcebo, 787
+Nhlakanipho, 377
+Sphe, 143
+Sbuda, 777
